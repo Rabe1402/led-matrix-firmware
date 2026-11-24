@@ -1,0 +1,18 @@
+# PlatformIO
+.pio/
+.cache/
+compile_commands.json
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.code-workspace
+
+# Lokale Zugangsdaten
+include/secrets.h
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
